@@ -1,0 +1,10 @@
+name,loan_type,lender,principal,rate,tenure,start_date,notes,emi_override
+Chitty,Personal Loan,SHG,499965,18.05,30,2026-04-01,,16666
+RBL Loan,Personal Loan,RBL Bank,685688,14.66,60,2024-06-05,,11428
+Kotak Mahindra Credit Card,Credit Card,Kotak Mahindra Bank,291817,16,60,2023-03-18,,4864
+ICICI,Credit Card,ICICI Bank,15792,16,3,2026-07-08,,5264
+RBL Loan 2,Personal Loan,RBL Bank,64302,12.98,12,2026-04-04,,5358
+Kotak Mahindra Loan,Personal Loan,Kotak Mahindra Bank,125024,15.13,36,2026-04-28,,3473
+ICICI Personal Loan,Personal Loan,ICICI Bank,609230,8.49,80,2026-07-08,,7615
+CRED,Personal Loan,IDFC First Bank,676771,12.62,60,2022-05-22,,11280
+Alto,Car Loan,ICICI Bank,293892,15,48,2024-11-29,,6123
