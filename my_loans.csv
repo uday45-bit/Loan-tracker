@@ -1,0 +1,10 @@
+lender,account_type,loan_amount,opened_date,tenure_months,tenure_remaining,closing_date,outstanding_balance,emi,rate,frequency,anchor_date,notes
+Local Chit Fund (Chitty),Chit Fund - Quarterly Installment,500000,15.12.2025,36,29,15.12.2028,350000,16666,12.25,3,15.06.2026,3 quarterly installments paid: 15 Dec 2025; 15 Mar 2026; 15 Jun 2026
+RBL Bank Limited,Credit Card,484000,09.11.2023,60,28,09.11.2028,273272,11428,16,1,09.07.2026,No last-payment date given; anchored to today
+ICICI Bank Limited,Car Loan - 1,464000,10.01.2023,80,38,10.09.2029,252847,7615,8.5,1,10.06.2026,
+ICICI Bank Limited,Gold Loan,220000,18.09.2025,12,2,18.09.2026,220000,0,14.75,-1,18.09.2025,Interest-only; principal+interest due at closing
+ICICI Bank Limited,Car Loan - 2,220000,29.11.2024,48,30,10.12.2028,152811,6123,14.75,1,10.06.2026,
+IDFC FIRST Bank Limited,Cred Personal Loan,499642,22.05.2022,60,11,22.05.2027,116628.93,11280,12.5,1,02.07.2026,
+Kotak Mahindra Bank Ltd,Personal Loan on credit Card,100000,28.04.2026,36,34,02.05.2029,95730.01,3473,14.99,1,02.07.2026,
+Kotak Mahindra Bank Ltd,Personal Loan on credit Card,200000,18.03.2023,60,20,18.03.2028,89965.79,5076.18,16,1,13.06.2026,
+RBL Bank Limited,Personal Loan,60000,12.05.2026,12,10,12.04.2027,45719,5358.75,12.99,1,12.06.2026,
